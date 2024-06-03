@@ -1,6 +1,6 @@
 {
-  "version": "v19.11.43",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/darsaliq00/revanced-magisk-module/releases/download/8/youtube-revanced-magisk-v19.11.43-arm64-v8a.zip",
+  "version": "v19.16.39",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/darsaliq00/revanced-magisk-module/releases/download/10/youtube-revanced-magisk-v19.16.39-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/darsaliq00/revanced-magisk-module/update/build.md"
 }
